@@ -1,6 +1,7 @@
 # Olá, eu sou o Bruno da Silva Santos! 👋
 
-![Banner](https://imgur.com/a/JeD8mcm)
+![Banner](https://i.imgur.com/SmTHaxR.png) 
+*(Aqui nós podemos colocar uma imagem que combine com o seu estilo!)*
 
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack em formação. Sou apaixonado por tecnologia e por criar soluções completas, conectando o banco de dados até a tela do usuário.
 
