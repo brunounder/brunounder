@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno da Silva Santos! 👋
+# Bruno Silva! 👋
 
 ![Banner](https://i.imgur.com/SmTHaxR.png) 
 
