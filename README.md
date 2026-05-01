@@ -1,6 +1,4 @@
-# Bruno Under
-
-![Banner](https://i.imgur.com/SmTHaxR.png) 
+# Bruno Silva
 
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack em formação. Sou apaixonado por tecnologia e por criar soluções completas, conectando o banco de dados até a tela do usuário.
 
