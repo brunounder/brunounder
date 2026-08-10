@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack e
 
 ### 🚀 Sobre mim
 
-- 📚 Cursando o 2º semestre de **Análise e Desenvolvimento de Sistemas** (Estácio).
+- 📚 Cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** (Estácio).
 - 💻 Focado no ecossistema JavaScript para desenvolvimento Web e Mobile.
 - 🎯 Buscando minha primeira oportunidade no mercado de tecnologia para somar e evoluir.
 - 🏁 Previsão de formatura para o final de 2027.
